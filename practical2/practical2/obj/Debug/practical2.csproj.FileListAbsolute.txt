@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\practical2\practical2\bin\Debug\practical2.exe.config
+C:\Users\LENOVO\source\repos\practical2\practical2\bin\Debug\practical2.exe
+C:\Users\LENOVO\source\repos\practical2\practical2\bin\Debug\practical2.pdb
+C:\Users\LENOVO\source\repos\practical2\practical2\obj\Debug\practical2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\practical2\practical2\obj\Debug\practical2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\practical2\practical2\obj\Debug\practical2.exe
+C:\Users\LENOVO\source\repos\practical2\practical2\obj\Debug\practical2.pdb
